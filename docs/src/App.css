@@ -1,0 +1,11 @@
+body {
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+}
